@@ -26,6 +26,9 @@
 
     <string name="root_access_all">Apps and ADB</string>
 
+    <!-- Launch Dev Tools -->
+    <string name="development_tools_title">Development tools</string>
+
     <!-- SuperSU -->
     <string name="supersu_title">SuperSU</string>
 
