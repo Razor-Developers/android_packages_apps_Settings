@@ -147,6 +147,7 @@ public class ButtonSettings extends SettingsPreferenceFragment implements
             prefScreen.removePreference(mDisableNavigationKeys);
         }
 
+
         if (hasHomeKey) {
             int defaultLongPressAction = res.getInteger(
                     com.android.internal.R.integer.config_longPressOnHomeBehavior);
