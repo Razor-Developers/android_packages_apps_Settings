@@ -88,6 +88,7 @@
     <string name="profile_reset_title">Reset</string>
     <string name="profiles_add">Add</string>
     <string name="profile_choose_app">Choose app</string>
+    <string name="notification_light_screen_on">Lights with screen on</string>
     
     <!-- Lights settings screen, notification light settings -->
     <string name="notification_light_title">Notification light</string>
