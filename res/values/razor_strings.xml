@@ -20,4 +20,9 @@
   <string name="razor_version_title">Razor version</string>
   <string name="razor_version_default">Unknown</string>
 
+    <!-- Team-Razor ChangeLog -->
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_title_summary">View recent changes in ROM</string>
+    <string name="changelog_error">Unable to load changelog</string>
+
 </resources>
