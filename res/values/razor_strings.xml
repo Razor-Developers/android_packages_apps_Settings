@@ -21,4 +21,8 @@
     <!-- BitSyko Layers -->
     <string name="bitsyko_layers">Layers</string>
 
+    <!-- Changelog -->
+    <string name="changelog_razor_title">RaZor Changelog</string>
+    <string name="changelog_razor_error">Unable to load changelog</string>
+
 </resources>
