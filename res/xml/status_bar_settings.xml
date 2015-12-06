@@ -19,6 +19,10 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/status_bar_title">
 
+    <!-- Status bar tweaks -->
+    <PreferenceCategory
+        android:title="@string/status_bar_style_title">
+
         <PreferenceScreen
             android:fragment="com.android.settings.razor.StatusBarClockStyle"
             android:key="clock_style_pref"
@@ -28,5 +32,12 @@
             android:key="battery"
             android:fragment="com.android.settings.tesla.Battery"
             android:title="@string/battery_category" />
+
+         <Preference
+            android:key="quicksettings"
+            android:fragment="com.android.settings.tesla.QuickSettings"
+            android:title="@string/quicksettings_category" />
+
+     </PreferenceCategory>
 
 </PreferenceScreen>
