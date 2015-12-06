@@ -110,7 +110,7 @@ public class InputMethodsSettings extends SettingsPreferenceFragment implements
 
     @Override
     protected int getMetricsCategory() {
-       return MetricsLogger.DIRTYTWEAKS;
+        return MetricsLogger;
     }
 
     public void updateRotationTimeout(int timeout) {
