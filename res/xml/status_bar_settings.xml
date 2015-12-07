@@ -38,6 +38,11 @@
             android:fragment="com.android.settings.tesla.QuickSettings"
             android:title="@string/quicksettings_category" />
 
-     </PreferenceCategory>
+         <Preference
+            android:key="weather"
+            android:fragment="com.android.settings.tesla.Weather"
+            android:title="@string/weather_category" />
+
+    </PreferenceCategory>
 
 </PreferenceScreen>
