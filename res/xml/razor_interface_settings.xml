@@ -24,4 +24,9 @@
         android:fragment="com.android.settings.razor.StatusBar"
         android:title="@string/status_bar_title" />
 
+          <Preference
+            android:key="animations"
+            android:fragment="com.android.settings.tesla.Animations"
+            android:title="@string/animations_category" />
+
 </PreferenceScreen>
