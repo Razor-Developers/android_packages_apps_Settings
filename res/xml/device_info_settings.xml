@@ -92,6 +92,12 @@
                 android:title="@string/build_number"
                 android:summary="@string/device_info_default"/>
 
+        <!-- Razor firmware version -->
+        <Preference android:key="razor_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/razor_version_title"
+                android:summary="@string/razor_version_default"/>
+
         <!-- SELinux status information -->
         <Preference android:key="selinux_status"
                 style="?android:preferenceInformationStyle"
