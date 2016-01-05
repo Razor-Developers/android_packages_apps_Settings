@@ -17,6 +17,11 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
         android:title="@string/about_settings">
 
+        <!-- Team-Razor logo -->
+        <PreferenceScreen android:key="razor_logo"
+                          android:enabled="false"
+                          android:layout="@layout/razor_logo_row" />
+
         <!-- Device status - launches activity -->
         <PreferenceScreen android:key="status_info"
                 android:title="@string/device_status"
@@ -31,7 +36,7 @@
                 android:key="manual"
                 android:title="@string/manual">
             <intent android:action="android.settings.SHOW_MANUAL" />
-        </PreferenceScreen
+        </PreferenceScreen>
 
         <PreferenceScreen
                 android:key="regulatory_info"
