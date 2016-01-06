@@ -59,9 +59,9 @@
     <string name="set">Set</string>
     <string name="color_default">Default</string>
 
-    <!-- Universe -->
+    <!-- Interface -->
     <string name="header_category_personalization">Personalization</string>
-    <string name="universe_settings_title">Universe</string>
+    <string name="interface_settings_title">RaZor Tweaks</string>
     <string name="status_bar_title">Statusbar</string>
     <string name="status_bar_style_title">Statusbar style</string>
 
