@@ -51,7 +51,7 @@ public class Changelog extends Fragment {
             }
             text = data.toString();
         } catch (IOException e) {
-            text = getString(R.string.changelog_intense_error);
+            text = getString(R.string.changelog_razor_error);
         } finally {
             try {
                 if (inputReader != null) {
