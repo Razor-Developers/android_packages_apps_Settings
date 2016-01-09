@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2015 The Dirty Unicorns Project
+ * Copyright (C) 2015 The Team-Razor
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.tesla;
+package com.android.settings.razor;
 
 import android.content.Context;
 import android.content.ContentResolver;
@@ -68,7 +68,7 @@ public class Battery extends SettingsPreferenceFragment implements OnPreferenceC
 
     @Override
     protected int getMetricsCategory() {
-        return MetricsLogger.TESLACOIL;
+        return MetricsLogger.RAZORSETTINGS;
     }
 
     @Override

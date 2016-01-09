@@ -30,7 +30,7 @@
 
          <Preference
             android:key="battery"
-            android:fragment="com.android.settings.tesla.Battery"
+            android:fragment="com.android.settings.razor.Battery"
             android:title="@string/battery_category" />
 
          <Preference
