@@ -106,6 +106,14 @@
             android:key="@string/category_key_device"
             android:title="@string/header_category_device" >
 
+        <!-- RaZor -->
+        <dashboard-tile
+                android:id="@+id/razor_settings"
+                android:title="@string/razor_settings_title"
+                android:fragment="com.android.settings.razor.RazorSettings"
+                android:icon="@drawable/ic_settings_interface"
+                />
+
         <!-- Home -->
         <dashboard-tile
                 android:id="@+id/home_settings"
