@@ -86,6 +86,8 @@
     <string name="battery_light_medium_color_title">Charging</string>
     <string name="battery_light_full_color_title">Fully charged</string>
     <string name="profile_reset_title">Reset</string>
+    <string name="profiles_add">Add</string>
+    <string name="profile_choose_app">Choose app</string>
     
     <!-- Lights settings screen, notification light settings -->
     <string name="notification_light_title">Notification light</string>
