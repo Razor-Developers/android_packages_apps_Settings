@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.android.settings.tesla;
+package com.android.settings.vibhu0009;
 
 import android.content.Context;
 import android.preference.SwitchPreference;
