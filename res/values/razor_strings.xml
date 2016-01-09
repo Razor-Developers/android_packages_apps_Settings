@@ -125,4 +125,8 @@
     <string name="double_tap_to_sleep_lockscreen_title">DT2S on Lockscreen</string>
     <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
 
+    <!-- About device screen, CPU and RAM info. -->
+    <string name="cpu_info">CPU</string>
+    <string name="mem_info">RAM</string>
+
 </resources>
