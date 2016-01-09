@@ -26,7 +26,7 @@
     <string name="changelog_razor_error">Unable to load changelog</string>
 
     <!-- RaZor -->
-    <string name="razor_settings_title">RaZor</string>
+    <string name="razor_settings_title">Hardware</string>
 
     <!-- About phone screen, Team-Razor version -->
     <string name="razor_version_title">RaZor version</string>
