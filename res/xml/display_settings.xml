@@ -115,9 +115,4 @@
                 android:fragment="com.android.settings.tesla.PowerMenu"
                 android:title="@string/powermenu_category" />
 
-        <Preference
-                 android:key="generalsettings"
-                 android:fragment="com.android.settings.tesla.GeneralSettings"
-                  android:title="@string/system_title" />
-
 </PreferenceScreen>
