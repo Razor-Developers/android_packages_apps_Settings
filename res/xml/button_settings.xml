@@ -23,7 +23,7 @@
         android:summary="@string/disable_navkeys_summary"
         android:defaultValue="false" />
 
-    <PreferenceCategory
+    <CheckBoxPreference
         android:key="home_key"
         android:title="@string/hardware_keys_home_key_title" >
 
